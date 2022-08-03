@@ -1,2 +1,3 @@
-# Data-Mining-Information-Retrieval
- Data Mining (DM) and Information Retrieval (IR)
+# f21dsa8410
+
+The course repo for Data Mining and Information Retrieval - Fall 2021
